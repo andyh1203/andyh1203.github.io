@@ -1,1 +1,1 @@
-Check out [helloandy.me](helloandy.me)
+Check out  http://helloandy.me
