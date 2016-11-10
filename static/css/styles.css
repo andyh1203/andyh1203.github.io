@@ -1,6 +1,6 @@
 .program-logo img {
-    height: 150px;
-    width: 150px;
+    height: 120px;
+    width: 120px;
 }
 
 * {
@@ -31,13 +31,18 @@ textarea {
 }
 
 #project-pic-1 {
-    height: 280px;
-    width: 280px;
+    height: 200px;
+    width: 200px;
 }
 
 #project-pic-2 {
-    height: 280px;
-    width: 350px;
+    height: 200px;
+    width: 300px;
+}
+
+#project-pic-3 {
+    height: 200px;
+    width: ;
 }
 
 #me {
@@ -60,7 +65,7 @@ h1,h2,h3,h4,p {
 
 .nav.navbar-nav li a {
     color: #000;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Montserrat',sans-serif;
     font-weight: 700;
 }
 
@@ -69,25 +74,25 @@ h1,h2,h3,h4,p {
 }
 
 h1 {
-    font-size: 70px;
-    font-family: 'Raleway',sans-serif;
-}
-
-h2 {
     font-size: 50px;
     font-family: 'Raleway',sans-serif;
 }
 
-h3 {
+h2 {
     font-size: 40px;
+    font-family: 'Raleway',sans-serif;
 }
 
-h4 {
+h3 {
     font-size: 30px;
 }
 
+h4 {
+    font-size: 20px;
+}
+
 p {
-    font-size: 25px;
+    font-size: 15px;
 }
 
 .project-links a {
